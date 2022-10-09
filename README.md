@@ -12,7 +12,7 @@ This project is a DIY Chat Room that can allow users to join different rooms and
 4. Go to http://localhost:3000/ 
 5. Each tab is a new user. Duplicate the tabs multiple times to mimic multiple users being in the chat room.
 
-![Screenshot](images/ChatApp.JPG)
+![Screenshot](media/ChatApp.JPG)
 
 
 
